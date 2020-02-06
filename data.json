@@ -1,0 +1,119 @@
+{
+    "icon": "/images/icon.ico",
+    "name": "Michael John Isip",
+    "photo": "/images/profile.jpg",
+    "resume": "/resume.pdf",
+    "email": "isipmichaeljohn@email.com",
+    "contact": "+639774255741",
+    "address": "#C Franco Apartment Sampaloc, Apalit, Pampanga",
+    "introduction": [
+        {
+            "heading": "Hey there! My name is MJ. A weeb, baller, and a software development enthusiast."
+        }, {
+            "description": "An ambivert who loves sports especially basketball and athletics. I spent most of my primary and secondary days training for competitions to be a scholar on schools I attended. Then one day, I discovered my love for programming back in highschool when we were tasked to develop a banking system as our school project. Since then, I pursued on improving and exploring the field of software development."
+        }
+    ],
+    "socials": [
+        {
+            "linkedin": "https://www.linkedin.com/in/michael-john-isip-1896b6143/"
+        },{
+            "dribble": "https://dribbble.com/ehemjii/"
+        },{
+            "github": "https://github.com/mj-isip23/"
+        }
+    ],
+    "portfolio": [
+        {
+            "name": "LVCC Enrollment System",
+            "image": "/images/enrollment.png",
+            "url": null,
+            "role": "Lead Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "Vue",
+                "Spark",
+                "Google API",
+                "Stripe API"
+            ],
+            "status": "cancelled"
+        },
+        {
+            "name": "Google Yellow Pages System",
+            "image": "/images/gyps.png",
+            "url": null,
+            "role": "Lead Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "Vue",
+                "Spark",
+                "Google API",
+                "Stripe API"
+            ],
+            "status": "cancelled"
+        },
+        {
+            "name": "DashSMS",
+            "image": "/images/dashsms.png",
+            "url": "https://dashsms.ph",
+            "role": "Web Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "October CMS",
+                "Shopify"
+            ],
+            "status": "finished"
+        },
+        {
+            "name": "Authenticart",
+            "image": "/images/authenticart.png",
+            "url": "https://authenticart.io",
+            "role": "Web Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "October CMS",
+                "Shopify"
+            ],
+            "status": "finished"
+        },
+        {
+            "name": "Azimuth",
+            "image": "/images/azimuth.png",
+            "url": null,
+            "role": "Lead Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "Jquery"
+            ],
+            "status": "finished"
+        },
+        {
+            "name": "Booble",
+            "image": "/images/placeholder.png",
+            "url": null,
+            "role": "Software Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "Jquery"
+            ],
+            "status": "finished"
+        },
+        {
+            "name": "GC Trader",
+            "image": "/images/placeholder.png",
+            "url": null,
+            "role": "Software Developer",
+            "description": "Lorem",
+            "technologies": [
+                "Laravel",
+                "Jquery"
+            ],
+            "status": "finished"
+        }
+    ]
+}
