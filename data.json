@@ -28,7 +28,7 @@
             "logo": "/images/github.png" 
         }
     ],
-    "portfolio": [
+    "projects": [
         {
             "name": "LVCC Enrollment System",
             "image": "/images/enrollment.png",
