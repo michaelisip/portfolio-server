@@ -1,5 +1,5 @@
 {
-    "icon": "/images/icon.ico",
+    "icon": "/icons/icon.ico",
     "name": "Michael John Isip",
     "photo": "/images/profile.jpg",
     "resume": "/resume.pdf",
@@ -15,11 +15,17 @@
     ],
     "socials": [
         {
-            "linkedin": "https://www.linkedin.com/in/michael-john-isip-1896b6143/"
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/michael-john-isip-1896b6143/",
+            "logo": "/images/linkedin.png" 
         },{
-            "dribble": "https://dribbble.com/ehemjii/"
+            "name": "Dribble",
+            "url": "https://dribbble.com/ehemjii/",
+            "logo": "/images/dribbble.png" 
         },{
-            "github": "https://github.com/mj-isip23/"
+            "name": "Github",
+            "url": "https://github.com/mj-isip23/",
+            "logo": "/images/github.png" 
         }
     ],
     "portfolio": [
