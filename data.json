@@ -96,7 +96,7 @@
             "image": "/images/placeholder.png",
             "url": null,
             "role": "Part-time Developer",
-            "description": "An adult website based on Australia",
+            "description": "An adult web application in Australia.",
             "technologies": [
                 "Laravel",
                 "Jquery"
@@ -107,8 +107,8 @@
             "name": "GC Trader",
             "image": "/images/placeholder.png",
             "url": null,
-            "role": "Software Developer",
-            "description": "An Ecommerce application based on Australia and New Zealand",
+            "role": "Part-time Developer",
+            "description": "An ecommerce web application in Australia with job posts and communities to join.",
             "technologies": [
                 "Laravel",
                 "Jquery",
