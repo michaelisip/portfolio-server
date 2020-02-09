@@ -6,13 +6,8 @@
     "email": "isipmichaeljohn@email.com",
     "contact": "+639774255741",
     "address": "#C Franco Apartment Sampaloc, Apalit, Pampanga",
-    "introduction": [
-        {
-            "heading": "Hey there! My name is MJ. A weeb, baller, and a software development enthusiast."
-        }, {
-            "description": "An ambivert who loves sports especially basketball and athletics. I spent most of my primary and secondary days training for competitions to be a scholar on schools I attended. Then one day, I discovered my love for programming back in highschool when we were tasked to develop a banking system as our school project. Since then, I pursued on improving and exploring the field of software development."
-        }
-    ],
+    "about": "Hey there! My name is MJ. A weeb, baller, and a software development enthusiast.",
+    "description": "An ambivert who loves sports especially basketball and athletics. I spent most of my primary and secondary days training for competitions to be a scholar on schools I attended. Then one day, I discovered my love for programming back in highschool when we were tasked to develop a banking system as our school project. Since then, I pursued on improving and exploring the field of software development.",
     "socials": [
         {
             "name": "LinkedIn",
