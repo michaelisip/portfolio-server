@@ -28,7 +28,7 @@
             "name": "LVCC Enrollment System",
             "image": "/images/enrollment.png",
             "url": null,
-            "role": "Lead Developer",
+            "role": "Software Developer",
             "description": "The project served as our capstone project during my senior year in college. I was tasked to develop the admin side of the project which consists of different functionalities and modules.",
             "technologies": [
                 "Laravel",
@@ -96,7 +96,7 @@
             "image": "/images/placeholder.png",
             "url": null,
             "role": "Part-time Developer",
-            "description": "An adult web application in Australia.",
+            "description": "A web application for a company based in Australia.",
             "technologies": [
                 "Laravel",
                 "Jquery"
