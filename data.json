@@ -29,22 +29,19 @@
             "image": "/images/enrollment.png",
             "url": null,
             "role": "Lead Developer",
-            "description": "Lorem",
+            "description": "The project served as our capstone project during my senior year in college. I was tasked to develop the admin side of the project which consists of different functionalities and modules.",
             "technologies": [
                 "Laravel",
-                "Vue",
-                "Spark",
-                "Google API",
-                "Stripe API"
+                "Voyager"
             ],
-            "status": "cancelled"
+            "status": "finished"
         },
         {
             "name": "Google Yellow Pages System",
             "image": "/images/gyps.png",
             "url": null,
             "role": "Lead Developer",
-            "description": "Lorem",
+            "description": "A project which lists nearest landmarks based on a searched address. Cancelled due to Google APIs limitations.",
             "technologies": [
                 "Laravel",
                 "Vue",
@@ -59,7 +56,7 @@
             "image": "/images/dashsms.png",
             "url": "https://dashsms.ph",
             "role": "Web Developer",
-            "description": "Lorem",
+            "description": "A Shopify Application for tracking customer cart abandonments and notification system.",
             "technologies": [
                 "Laravel",
                 "October CMS",
@@ -72,7 +69,7 @@
             "image": "/images/authenticart.png",
             "url": "https://authenticart.io",
             "role": "Web Developer",
-            "description": "Lorem",
+            "description": "A Shopify Application that promises to improve conversions and lower Return-to-Sender rate.",
             "technologies": [
                 "Laravel",
                 "October CMS",
@@ -85,10 +82,12 @@
             "image": "/images/azimuth.png",
             "url": null,
             "role": "Lead Developer",
-            "description": "Lorem",
+            "description": "An online examination system for Marine Engineering students of the client.",
             "technologies": [
                 "Laravel",
-                "Jquery"
+                "JQuery",
+                "QR Code Generator",
+                "Google Authenticator"
             ],
             "status": "finished"
         },
@@ -96,8 +95,8 @@
             "name": "Booble",
             "image": "/images/placeholder.png",
             "url": null,
-            "role": "Software Developer",
-            "description": "Lorem",
+            "role": "Part-time Developer",
+            "description": "An adult website based on Australia",
             "technologies": [
                 "Laravel",
                 "Jquery"
@@ -109,12 +108,15 @@
             "image": "/images/placeholder.png",
             "url": null,
             "role": "Software Developer",
-            "description": "Lorem",
+            "description": "An Ecommerce application based on Australia and New Zealand",
             "technologies": [
                 "Laravel",
-                "Jquery"
+                "Jquery",
+                "Paypal",
+                "Afterpay",
+                "Zippay"
             ],
-            "status": "finished"
+            "status": "on-going"
         }
     ]
 }
