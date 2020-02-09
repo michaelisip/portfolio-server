@@ -102,21 +102,6 @@
                 "Jquery"
             ],
             "status": "finished"
-        },
-        {
-            "name": "GC Trader",
-            "image": "/images/placeholder.png",
-            "url": null,
-            "role": "Part-time Developer",
-            "description": "An ecommerce web application in Australia with job posts and communities to join.",
-            "technologies": [
-                "Laravel",
-                "Jquery",
-                "Paypal",
-                "Afterpay",
-                "Zippay"
-            ],
-            "status": "on-going"
         }
     ]
 }
