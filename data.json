@@ -103,5 +103,17 @@
             ],
             "status": "finished"
         }
+        {
+            "name": "Whisperio",
+            "image": "/images/placeholder.png",
+            "url": null,
+            "role": "Developer",
+            "description": "A simple chat system build with react and socket io.",
+            "technologies": [
+                "React",
+                "Socket IO"
+            ],
+            "status": "finished"
+        }
     ]
 }
