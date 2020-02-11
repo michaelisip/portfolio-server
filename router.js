@@ -7,7 +7,6 @@ const nodemailer = require('nodemailer')
 dotenv.config()
 
 router.get('/', (req, res) => {
-    console.log(process.env.GOOGLE_MAIL)
     res.send(`Server is up and running...`)
 })
 
@@ -23,7 +22,7 @@ router.get('/data', async (req, res) => {
 router.post('/resume/request', (req, res) => {
 
     const name = req.body.name
-    const from = req.body.from
+    const from = req.body.email
     const body = req.body.message
 
     const transporter = nodemailer.createTransport({
@@ -35,8 +34,8 @@ router.post('/resume/request', (req, res) => {
     });
 
     const mailOptions = {
-        from: from,
-        to: process.env.GOOGLE_MAIL,
+        from: `${name} <${from}>`,
+        to: `MichaelJohn Isip <${process.env.GOOGLE_MAIL}>`,
         subject: 'Resume Request | ' + name,
         text: body
     };
