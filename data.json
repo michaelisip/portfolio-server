@@ -7,7 +7,7 @@
     "contact": "+639774255741",
     "address": "#C Franco Apartment Sampaloc, Apalit, Pampanga",
     "about": "A weeb, baller, and a software development enthusiast.",
-    "description": "An ambivert who loves sports especially basketball and athletics. I spent most of my primary and secondary days training for competitions to be a scholar on schools I attended. Then one day, I discovered my love for programming back in highschool when we were tasked to develop a banking system as our school project. Since then, I pursued on improving and exploring the field of software development.",
+    "description": "An ambivert who loves sports especially basketball and athletics. I spent most of my primary and secondary years competiting to be a scholar on the schools I attended. Then one day, I discovered my love for programming back in college when we were tasked to develop a banking system as our school project. Since then, I pursued on improving and exploring the field of software development.",
     "socials": [
         {
             "name": "LinkedIn",
@@ -29,7 +29,7 @@
             "image": "/images/enrollment.png",
             "url": null,
             "role": "Software Developer",
-            "description": "The project served as our capstone project during my senior year in college. I was tasked to develop the admin side of the project which consists of different functionalities and modules.",
+            "description": "Our Capstone project during my senior year in college. Assigned on developing the admin side of the project which consists of different functionalities and modules.",
             "technologies": [
                 "Laravel",
                 "Voyager"
@@ -41,7 +41,7 @@
             "image": "/images/gyps.png",
             "url": null,
             "role": "Lead Developer",
-            "description": "A project which lists nearest landmarks based on a searched address. Cancelled due to Google APIs limitations.",
+            "description": "A SAAS project which fetches businesses nearby a given address. Cancelled due to Google APIs limitations.",
             "technologies": [
                 "Laravel",
                 "Vue",
@@ -69,7 +69,7 @@
             "image": "/images/authenticart.png",
             "url": "https://authenticart.io",
             "role": "Web Developer",
-            "description": "A Shopify Application that promises to improve conversions and lower Return-to-Sender rate.",
+            "description": "A Shopify Application that promises to improve conversions and lower Return-to-Sender rates.",
             "technologies": [
                 "Laravel",
                 "October CMS",
@@ -82,7 +82,7 @@
             "image": "/images/azimuth.png",
             "url": null,
             "role": "Lead Developer",
-            "description": "An online examination system for Marine Engineering students of the client.",
+            "description": "An online examination system for Marine Engineering students of a client.",
             "technologies": [
                 "Laravel",
                 "JQuery",
@@ -108,7 +108,7 @@
             "image": "/images/placeholder.png",
             "url": null,
             "role": "Developer",
-            "description": "A simple chat system build with react and socket io.",
+            "description": "A simple chat system built with react and socket io.",
             "technologies": [
                 "React",
                 "Socket IO"
