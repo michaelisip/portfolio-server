@@ -37,7 +37,7 @@
             "status": "finished"
         },
         {
-            "name": "Google Yellow Pages System",
+            "name": "GYPS",
             "image": "/images/gyps.png",
             "url": null,
             "role": "Lead Developer",
@@ -69,7 +69,7 @@
             "image": "/images/authenticart.png",
             "url": "https://authenticart.io",
             "role": "Web Developer",
-            "description": "A Shopify Application that promises to improve conversions and lower Return-to-Sender rates.",
+            "description": "A Shopify Application that improves conversions and lower Return-to-Sender rates.",
             "technologies": [
                 "Laravel",
                 "October CMS",
@@ -105,12 +105,15 @@
         },
         {
             "name": "Whisperio",
-            "image": "/images/placeholder.png",
-            "url": null,
+            "image": "/images/whisperio.png",
+            "url": "https://whisperio.netlify.com",
             "role": "Developer",
-            "description": "A simple chat system built with react and socket io.",
+            "description": "A simple chat system built with React and Socket IO.",
             "technologies": [
                 "React",
+                "NodeJS",
+                "ExpressJS",
+                "MongoDB",
                 "Socket IO"
             ],
             "status": "finished"
