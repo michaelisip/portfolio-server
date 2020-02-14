@@ -116,7 +116,21 @@
                 "MongoDB",
                 "Socket IO"
             ],
-            "status": "finished"
-        }
-    ]
+            "status": "on-going"
+          },
+          {
+              "name": "ADD 3",
+              "image": "/images/placeholder.png",
+              "url": "https://addthree.netlify.com",
+              "role": "Developer",
+              "description": "A simple web-based game built with MERN.",
+              "technologies": [
+                "MongoDB",
+                "React",
+                "ExpressJS",
+                "NodeJS"
+              ],
+              "status": "on-going"
+          }
+      ]
 }
